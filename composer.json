@@ -20,7 +20,7 @@
     ],
     "homepage": "https://github.com/gormus/edgescape",
     "support": {
-        "issues": "https://www.drupal.org/project/issues/edgescape",
-        "source": "http://cgit.drupalcode.org/edgescape"
+        "issues": "https://github.com/gormus/edgescape/issues",
+        "source": "https://github.com/gormus/edgescape"
     }
 }
