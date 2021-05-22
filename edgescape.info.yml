@@ -1,0 +1,5 @@
+type: module
+name: EdgeScape
+description: Content visibility based on geographic location and network characteristics
+core_version_requirement: ^8.8 || ^9.0
+configure: edgescape.edgescape_admin_settings_form

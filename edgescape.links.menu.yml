@@ -1,0 +1,5 @@
+edgescape.edgescape_admin_settings_form:
+  title: 'Akamai EdgeScape header'
+  description: 'Set Akamai EdgeScape header.'
+  route_name: edgescape.edgescape_admin_settings_form
+  parent: system.admin_config_system

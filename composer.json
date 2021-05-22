@@ -1,0 +1,26 @@
+{
+    "name": "gormus/edgescape",
+    "type": "drupal-module",
+    "description": "Content visibility based on geographic location and network characteristics",
+    "keywords": [
+        "akamai",
+        "edgescape",
+        "geo",
+        "geolocation",
+        "visibility",
+        "condition plugin"
+    ],
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Osman Gormus",
+            "homepage": "https://www.drupal.org/u/osman",
+            "role": "Maintainer"
+        }
+    ],
+    "homepage": "https://github.com/gormus/edgescape",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/edgescape",
+        "source": "http://cgit.drupalcode.org/edgescape"
+    }
+}

@@ -1,0 +1,9 @@
+edgescape.edgescape_admin_settings_form:
+  path: '/admin/config/system/edgescape'
+  defaults:
+    _form: '\Drupal\edgescape\Form\EdgescapeSettingsForm'
+    _title: 'Akamai EdgeScape header'
+  requirements:
+    _permission: 'administer site configuration'
+  options:
+    _admin_route: TRUE
